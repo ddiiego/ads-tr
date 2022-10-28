@@ -1,0 +1,27 @@
+.lista h1{
+    color: pink;
+}
+
+.link h2, h3{
+    color: red;
+}
+
+body > div.link > p:nth-child(2) > a{
+    color: yellow;
+}
+
+body > div.link > p:nth-child(3) > a{
+    color: blueviolet;
+}
+
+body > div.link > p:nth-child(4) > a{
+    color: green;
+}
+
+body > div.link > p:nth-child(5) > a{
+    color: brown;
+}
+
+.log h1{
+    color: blue;
+}
